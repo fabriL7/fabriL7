@@ -3,11 +3,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+F%C3%A1bri!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Bem-vindo+ao+meu+universo+dev!" alt="Animação de apresentação">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+F%C3%A1bri!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Bem-vindo+ao+meu+universo+dev!" alt="Animação de apresentação">
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=fabril7&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=8B5CF6&style=for-the-badge" alt="Visualizações">
 
 </div>
 
@@ -28,11 +26,6 @@
 
 ## 🌙 Sobre mim
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=C4B5FD&center=true&vCenter=true&width=750&lines=Em+constante+evolu%C3%A7%C3%A3o+na+programa%C3%A7%C3%A3o.;Aprendendo%2C+praticando+e+construindo.;Disciplina+gera+resultados.;Meu+objetivo%3A+Full+Stack+Developer." alt="Sobre mim animado">
-
-</div>
 
 - 🎯 Em formação na área de programação.
 - 💻 Estudando HTML, CSS e JavaScript.
@@ -50,9 +43,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tecnologias">
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+c%C3%B3digo...;Um+projeto+de+cada+vez." alt="Tecnologias em animação">
-
 </div>
 
 ---
